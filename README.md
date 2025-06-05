@@ -16,7 +16,7 @@ This project aims to classify breast tumors as **benign** or **malignant** using
 
 ## 📊 Dataset
 
-- **Source**: [[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+- **Source**: (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 - **Instances**: 569
 - **Features**: 30 numeric features + 1 target (`diagnosis`)
   - `1` = Malignant
